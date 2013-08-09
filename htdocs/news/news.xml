@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<newsitems>
+	<newsitem>
+		<title>Treats from the Edwardian Country House</title>
+		<source>Channel 4, May 23rd 8:30pm</source>
+		<newstext>James and 
+			Hugh the presenter discuss how the Edwardians kept honeybees and how they 
+			used the by-products they harvested from their bees. Shot on location at 
+			James&apos;s orchard/apiary, &apos;Bee Heaven Farm&apos; in Surrey surrounded by 180 rare apple 
+			trees and 40 beehives on site. Don't miss it!
+		</newstext>
+		<url>http://www.channel4.com/history/microsites/C/countryhouse/treats/prog02.html</url>
+	</newsitem>	<newsitem>
+		<title>Where to find honey</title>
+		<source>The Times, London (6 Apr 2002)</source>
+		<newstext></newstext>
+		<url>newsitem.asp?newsitem=1</url>
+	</newsitem>
+	<newsitem>
+		<title>A Hive Of Activity</title>
+		<source>Country Homes &amp; Interiors (May 2002)</source>
+		<newstext></newstext>
+		<url>newsitem.asp?newsitem=2</url>
+	</newsitem>
+	<newsitem>
+		<title>Beginners&apos; Beekeeping Course</title>
+		<source>The Hive Honey Shop</source>
+		<newstext><para>A course run by The Hive Honey Shop for beginners who have little or no previous knowledge of bees or beekeeping. </para><para></para><para>Topics covered:</para><para>- Natural History of the Honey Bee</para><para>- Basic Beekeeping &amp; Equipment</para><para>- Manipulation of a Honey Bee colony</para><para>- Harvesting of Honey</para><para></para><para>Course Dates: April 10th, 17th, 24th, May 1st.</para><para>Please phone 020 7924 6233 or email for details</para></newstext>
+		<url>mailto:beekeepingcourse@thehivehoneyshop.co.uk</url>
+	</newsitem>
+	<newsitem>
+		<title>City life&apos;s a buzz for honeybees</title>
+		<source>BBC News Online</source>
+		<newstext><para>City honey producers say their product is better than country honey.</para></newstext>
+		<url>http://news.bbc.co.uk/hi/english/uk/newsid_392000/392190.stm</url>
+	</newsitem>
+	<newsitem>
+		<title>Welcome to a Bellyful of Barden...</title>
+		<source>BBC London Online</source>
+		<newstext><para>Nigel Barden, food critic for BBC Radio London, gives some tips on Honey in London.  </para><para>&quot;Attention all drones, there are thousands of bee hives secreted round London. For a selection of magnificent honeys and all things concerned with apiary (the keeping of bees), fly to The Hive Honey Shop&quot;</para></newstext>
+		<url>http://www.bbc.co.uk/london/entertainment/food/greek_index.shtml</url>
+	</newsitem>
+	<newsitem>
+		<title>Henrietta Green&apos;s Food Lovers Britain</title>
+		<source>http://www.foodloversbritain.co.uk/</source>
+		<newstext><para>&quot;Here you will be able to find out where and how to buy the best produce, meet the personalities on the page and learn why their food is so special.&quot;</para></newstext>
+		<url>http://www.foodloversbritain.co.uk/organisations/organisation-825.html</url>
+	</newsitem>
+</newsitems>

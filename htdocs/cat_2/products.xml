@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<products header="" footer="" description="Cosmetics">
+	<product>
+		<picturecode>a</picturecode>
+		<title>Honey and Cinnamon Shampoo</title>
+		<itemid>34</itemid>
+	</product>
+	<product>
+		<picturecode>b</picturecode>
+		<title>Honey and Cinnamon Conditioner</title>
+		<itemid>35</itemid>
+	</product>
+	<product>
+		<picturecode>c</picturecode>
+		<title>Honey and Almond Cream Bath</title>
+		<itemid>36</itemid>
+	</product>
+	<product>
+		<picturecode>d</picturecode>
+		<title>English Honey Bar Soap</title>
+		<itemid>39</itemid>
+	</product>
+	<product>
+		<picturecode>e</picturecode>
+		<title>Lily and Vitamin E Moisturiser</title>
+		<itemid>40</itemid>
+	</product>
+	<product>
+		<picturecode>f</picturecode>
+		<title>Propolis &amp; Herb Lip Balm</title>
+		<itemid>41</itemid>
+	</product>
+	<product>
+		<picturecode>g</picturecode>
+		<title>Royal Jelly Moisturiser</title>
+		<itemid>42</itemid>
+	</product>
+	<product>
+		<picturecode>h</picturecode>
+		<title>Honey &amp; Lemon Lip Balm</title>
+		<itemid>43</itemid>
+	</product>
+	<product>
+		<picturecode>I</picturecode>
+		<title>Teddy or Duck Shaped Bath Fizzers</title>
+		<itemid>180</itemid>
+	</product>
+	<product>
+		<picturecode>I</picturecode>
+		<title>Teddy Shaped Soaps</title>
+		<itemid>181</itemid>
+	</product>
+	<product>
+		<picturecode>I</picturecode>
+		<title>Natural Pumice Stone</title>
+		<itemid>44</itemid>
+	</product>
+	<product>
+		<picturecode></picturecode>
+		<title>Royal Jelly Body Lotion</title>
+		<itemid>45</itemid>
+	</product>
+	<product>
+		<picturecode></picturecode>
+		<title>Royal Jelly Hand Lotion</title>
+		<itemid>46</itemid>
+	</product>
+	<product>
+		<picturecode></picturecode>
+		<title>Lily and Vitamin E Body Lotion</title>
+		<itemid>47</itemid>
+	</product>
+	<product>
+		<picturecode></picturecode>
+		<title>Lily and Vitamin E Hand Lotion</title>
+		<itemid>48</itemid>
+	</product>
+</products>

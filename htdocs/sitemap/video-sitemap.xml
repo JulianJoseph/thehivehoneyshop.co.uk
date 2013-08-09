@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>http://www.thehivehoneyshop.co.uk/video.asp</loc>
+    <video:video>
+      <video:content_loc>http://www.thehivehoneyshop.co.uk/images/beehive.flv</video:content_loc>
+      <video:player_loc allow_embed="yes" autoplay="ap=1">http://www.thehivehoneyshop.co.uk/images/flvplayer.swf?file=http://www.thehivehoneyshop.co.uk/images/beehive.flv</video:player_loc>
+      <video:thumbnail_loc>http://www.thehivehoneyshop.co.uk/images/hive_video.jpg</video:thumbnail_loc>
+      <video:title>The Hive Honey Shop Video</video:title>
+      <video:description>Beekeeping with The Hive Honey Shop</video:description>
+      <video:publication_date>2008-10-28</video:publication_date>
+      <video:tag>hive</video:tag>
+      <video:tag>honey</video:tag>
+      <video:tag>beekeeping</video:tag>
+      <video:category>beekeeping</video:category>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:duration>427</video:duration>
+    </video:video>
+  </url>
+</urlset>

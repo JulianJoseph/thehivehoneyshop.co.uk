@@ -1,0 +1,13 @@
+BODY, TD, P
+{
+	font-size: x-small;
+	color: #000000;
+	font-family: Verdana, Arial, Sans-Serif;
+	background-color: #ffffcc;
+}
+H2,H3, H4
+{
+	font-size: medium;
+	color: #6d1746;
+	font-family: Verdana, Arial, Sans-Serif;
+}

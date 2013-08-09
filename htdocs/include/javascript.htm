@@ -1,0 +1,33 @@
+<script language="JavaScript">
+	<!-- hide
+	/* Function that displays status bar messages. */
+	function MM_displayStatusMsg(msgStr)  { //v3.0
+		status=msgStr; document.MM_returnValue = true;
+	}
+	function resetX()
+	{
+		x = (document.body.offsetWidth/2) + 150;	
+	}
+
+	function fwLoadMenus() {
+	  if (window.fw_menu_0) return;
+	  window.fw_menu_0 = new Menu("root",172,17,"Verdana, Arial, Helvetica, sans-serif",10,"#ffffcc","#ffffff","#6d1746","#000084");
+		fw_menu_0.addMenuItem("Honeys","location='products.asp?category=1'");
+		fw_menu_0.addMenuItem("Cosmetics","location='products.asp?category=2'");
+		fw_menu_0.addMenuItem("Delightful Indulgence","location='products.asp?category=3'");
+		fw_menu_0.addMenuItem("Health","location='products.asp?category=4'");
+		fw_menu_0.addMenuItem("Candles","location='products.asp?category=5'");
+		fw_menu_0.addMenuItem("Silver Millenium Honey Pot","location='products.asp?category=9'");
+		fw_menu_0.addMenuItem("Gifts and Honey Pots","location='products.asp?category=6'");
+		fw_menu_0.addMenuItem("More Gifts and Honey Pots","location='products.asp?category=7'");
+		fw_menu_0.addMenuItem("New Gifts and Honey Pots","location='products.asp?category=8'");
+		fw_menu_0.bgImageUp="images/fwmenu1_172x17_up.gif";
+	  fw_menu_0.bgImageOver="images/fwmenu1_172x17_over.gif";
+	  fw_menu_0.hideOnMouseOut=true;
+
+	  fw_menu_0.writeMenus();
+	} // fwLoadMenus()
+
+	// stop hiding -->
+</script>
+<script language="JavaScript" src="fw_menu.js"></script>

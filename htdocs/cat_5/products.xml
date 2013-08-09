@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+<products header="All candles are made using our own beeswax from The Hive&apos;s apiaries 
+which is an unaffected &amp; renewable resource, working alongside nature." footer="Never leave burning candles unattended. Burn on a heat resistant surface away from flammable objects. Keep children and pets away from lighted candles. Remove all packaging before use. Suggested burning times are approximate and may vary." description="Candles">
+	<product>
+		<picturecode>a</picturecode>
+		<title>Crated Candles- x5</title>
+		<itemid>77</itemid>
+	</product>
+	<product>
+		<picturecode>b</picturecode>
+		<title>Pinecone Candle</title>
+		<itemid>78</itemid>
+	</product>
+	<product>
+		<picturecode>c</picturecode>
+		<title>Skep Beehive Candle</title>
+		<itemid>79</itemid>
+	</product>
+	<product>
+		<picturecode>d</picturecode>
+		<title>Dipped Candles</title>
+		<itemid>80</itemid>
+	</product>
+	<product>
+		<picturecode>e</picturecode>
+		<title>Bee/Comb Candle</title>
+		<itemid>81</itemid>
+	</product>
+	<product>
+		<picturecode>f</picturecode>
+		<title>Nat. Beeswax Half</title>
+		<itemid>82</itemid>
+	</product>
+	<product>
+		<picturecode></picturecode>
+		<title>Xmas Red/Green candles</title>
+		<itemid>83</itemid>
+	</product>
+	<product>
+		<picturecode>g</picturecode>
+		<title>Beeswax comb candle</title>
+		<itemid>84</itemid>
+	</product>
+	<product>
+		<picturecode>h</picturecode>
+		<title>Crated Candles</title>
+		<itemid>85</itemid>
+	</product>
+	<product>
+		<picturecode>I</picturecode>
+		<title>Crated Candles</title>
+		<itemid>86</itemid>
+	</product>
+	<product>
+		<picturecode>j</picturecode>
+		<title>Chick Candle</title>
+		<itemid>87</itemid>
+	</product>
+	<product>
+		<picturecode>k</picturecode>
+		<title>Rabbit Candle</title>
+		<itemid>88</itemid>
+	</product>
+	<product>
+		<picturecode>l</picturecode>
+		<title>Skephouse Candle</title>
+		<itemid>89</itemid>
+	</product>
+	<product>
+		<picturecode>m</picturecode>
+		<title>Xmas Tree Candle</title>
+		<itemid>90</itemid>
+	</product>
+	<product>
+		<picturecode>n</picturecode>
+		<title>Skep Beehive Candle</title>
+		<itemid>91</itemid>
+	</product>
+	<product>
+		<picturecode>o</picturecode>
+		<title>Floating Beeshaped Candle</title>
+		<itemid>92</itemid>
+	</product>
+	<product>
+		<picturecode>p</picturecode>
+		<title>Beeswax Lavender Polish. - natural</title>
+		<itemid>93</itemid>
+	</product>
+	<product>
+		<picturecode>q</picturecode>
+		<title>Beeswax  Xmas Ornaments</title>
+		<itemid>94</itemid>
+	</product>
+	<product>
+		<picturecode>r</picturecode>
+		<title>Pure Beeswax block</title>
+		<itemid>95</itemid>
+	</product>
+	<product>
+		<picturecode>s</picturecode>
+		<title>Beeswax Candle Kits</title>
+		<itemid>96</itemid>
+	</product>
+	<product>
+		<picturecode>d</picturecode>
+		<title>Soft Bee with string legs</title>
+		<itemid>101</itemid>
+	</product>
+	<product>
+		<picturecode>z</picturecode>
+		<title>China Hex. H/Pot</title>
+		<itemid>123</itemid>
+	</product>
+</products>

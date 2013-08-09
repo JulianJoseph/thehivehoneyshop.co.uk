@@ -1,0 +1,10 @@
+<modify-entry
+   name="delight_h.jpg"
+   present-props=""
+   has-prop-mods="true"
+   has-props="true"/>
+<mv
+   dest=".svn/props/delight_h.jpg.svn-work"
+   name=".svn/props/tempfile.tmp"/>
+<readonly
+   name=".svn/props/delight_h.jpg.svn-work"/>

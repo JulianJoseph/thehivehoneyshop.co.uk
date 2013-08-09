@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<products header="" footer="" description="Delightful Indulgence">
+	<product>
+		<picturecode>a</picturecode>
+		<title>Honey Fudge</title>
+		<itemid>37</itemid>
+	</product>
+	<product>
+		<picturecode>b/c</picturecode>
+		<title>Honey and Herb Coarse Grain Mustard</title>
+		<itemid>38</itemid>
+	</product>
+	<product>
+		<picturecode>d</picturecode>
+		<title>Honey and Herb French Mustard</title>
+		<itemid>50</itemid>
+	</product>
+	<product>
+		<picturecode>e</picturecode>
+		<title>Honey and Herb English Mustard</title>
+		<itemid>51</itemid>
+	</product>
+	<product>
+		<picturecode>f</picturecode>
+		<title>Spicy Honey &amp; Herb Tomato Relish</title>
+		<itemid>52</itemid>
+	</product>
+	<product>
+		<picturecode>g</picturecode>
+		<title>Forest Fruit &amp; Honey Conserve</title>
+		<itemid>53</itemid>
+	</product>
+	<product>
+		<picturecode>h</picturecode>
+		<title>Cherry &amp; Honey Conserve</title>
+		<itemid>54</itemid>
+	</product>
+	<product>
+		<picturecode>I</picturecode>
+		<title>Wild Raspberry &amp; Honey Conserve</title>
+		<itemid>55</itemid>
+	</product>
+	<product>
+		<picturecode>j</picturecode>
+		<title>Honey Rum &amp; Raisin Fudge Sauce</title>
+		<itemid>57</itemid>
+	</product>
+	<product>
+		<picturecode>k</picturecode>
+		<title>Boxed Bee Sweets</title>
+		<itemid>59</itemid>
+	</product>
+	<product>
+		<picturecode></picturecode>
+		<title>Boxed Chocolate Bees</title>
+		<itemid>60</itemid>
+	</product>
+	<product>
+		<picturecode></picturecode>
+		<title>Gift Wrapped Boxed Belgian Chocolates</title>
+		<itemid>61</itemid>
+	</product>
+	<product>
+		<picturecode></picturecode>
+		<title>Gourmet Caviar Milk Chocolate</title>
+		<itemid>62</itemid>
+	</product>
+</products>

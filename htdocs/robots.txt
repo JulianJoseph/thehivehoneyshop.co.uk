@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /	
+Disallow: /news/
+Sitemap: http://londonhoneyshop.blogspot.com/feeds/posts/default
+Sitemap: http://thehivehoneyshop.blogspot.com/feeds/posts/default
