@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D69FD2F9-DBCA-4824-8474-1FC893F68BFA}"
+	ProjectSection(SolutionItems) = preProject
+		..\htdocs\_070619_checkout_paypal.asp = ..\htdocs\_070619_checkout_paypal.asp
+		..\htdocs\_071217_checkout_mailorder.asp = ..\htdocs\_071217_checkout_mailorder.asp
+		..\htdocs\_071217_checkout_paypal.asp = ..\htdocs\_071217_checkout_paypal.asp
+		..\htdocs\_071217_hive_shopping.asp = ..\htdocs\_071217_hive_shopping.asp
+		..\htdocs\_071217_orderform.asp = ..\htdocs\_071217_orderform.asp
+		..\htdocs\checkout_mailorder.asp = ..\htdocs\checkout_mailorder.asp
+		..\htdocs\checkout_paypal.asp = ..\htdocs\checkout_paypal.asp
+		..\htdocs\count.txt = ..\htdocs\count.txt
+		..\htdocs\default.asp = ..\htdocs\default.asp
+		..\htdocs\local-default.asp = ..\htdocs\local-default.asp
+		..\htdocs\defaultOLD.asp = ..\htdocs\defaultOLD.asp
+		..\htdocs\elastictrail.js = ..\htdocs\elastictrail.js
+		..\htdocs\favicon.ico = ..\htdocs\favicon.ico
+		..\htdocs\full_image.asp = ..\htdocs\full_image.asp
+		..\htdocs\fw_menu.js = ..\htdocs\fw_menu.js
+		..\htdocs\history.asp = ..\htdocs\history.asp
+		..\htdocs\hive.css = ..\htdocs\hive.css
+		..\htdocs\hive_shopping.asp = ..\htdocs\hive_shopping.asp
+		..\htdocs\hivepaypalconfig.asp = ..\htdocs\hivepaypalconfig.asp
+		..\htdocs\hivepaypalconfig.asp_test = ..\htdocs\hivepaypalconfig.asp_test
+		..\htdocs\howtofind.asp = ..\htdocs\howtofind.asp
+		..\htdocs\insidethehive.asp = ..\htdocs\insidethehive.asp
+		..\htdocs\itemdetail.asp = ..\htdocs\itemdetail.asp
+		..\htdocs\new-default.asp = ..\htdocs\new-default.asp
+		..\htdocs\news.asp = ..\htdocs\news.asp
+		..\htdocs\newsitem.asp = ..\htdocs\newsitem.asp
+		..\htdocs\oldnews.asp = ..\htdocs\oldnews.asp
+		..\htdocs\orderform.asp = ..\htdocs\orderform.asp
+		..\htdocs\paypal_x-click-but6.gif = ..\htdocs\paypal_x-click-but6.gif
+		..\htdocs\paypalprocessreturn.asp = ..\htdocs\paypalprocessreturn.asp
+		..\htdocs\preparation.asp = ..\htdocs\preparation.asp
+		..\htdocs\products.asp = ..\htdocs\products.asp
+		..\htdocs\update_basket.asp = ..\htdocs\update_basket.asp
+		..\htdocs\video.asp = ..\htdocs\video.asp
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{15C20CC1-E640-45DD-9B31-41F9997DF057}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
