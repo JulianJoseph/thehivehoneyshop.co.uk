@@ -4,7 +4,7 @@
 <head>
     <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8" >
 	<title>The Hive Honey Shop: Honey, beeswax, beekeeping equipment and books</title>
-	<meta name="description" content="Honey Shop - supplies honey, beeswax, beekeeping equipment and books, skin care products using honey and beeswax plus general beekeeping information and advice.">
+	<meta name="description" content="Purveyors of the Finest Honeys in the Kingdom. We are 4th generation beekeepers since 1924 gathering rare fresh raw English and London nectar honeys from our own beehives. The Hive Honey Shop established in 1992 is an entire Dickensian styled shop devoted to just bees and honey, a little honey-wonderland chock-full from floor to ceiling with the largest selection of English and international honeys in the country!">
 	<META name="keywords" content="honey, London, English, England, Pollen,Bees, Beeswax, Local Honey, Honey Shop, London Honey, Honeybee, Beekeeping, Beekeeper, hive, beehive, honey pot, hay fever, pure honey">
 	<meta name="google-site-verification" content="CALOyb2aO0pFfYhkJ36FYG2plt-1OttiHgKk8RJNTTw" />
 	<link rel="Stylesheet" type="text/css" href="hive.css" />
@@ -72,14 +72,14 @@
 	    </tr>
 	    <tr>
 	        <td valign="top" width="149">
-                <a href="video.asp"><img src="images/hive_video.jpg" width="149" height="127" border="0" title="Click to see us beekeeping" alt="Click to see us beekeeping"></a>
-	            <span class="photoCaption"><b>Click</b> above to see us Beekeeping!</span>	
+                <a href="video.asp"><img src="images/JH beard 2014 PR beekeeper shot.jpg" width="149" height="127" border="0" title="Click to see us beekeeping" alt="Click to see us beekeeping"></a>
+	            <span class="photoCaption">See us Beekeeping<br />Click Above</span>	
 	            <img src="images/spacer.gif" width="149" height="5" border="0">
-                <a href="http://londonhoneyshop.blogspot.com/"><img src="images/group-beekeeping.jpg" width="149" border="0" title="FREE Beekeeping Tips for Beginners - Beekeeping with the Hive - Click here" alt="FREE Beekeeping Tips for Beginners - Beekeeping with the Hive - Click here"></a>
-	            <span class="photoCaption"><b>FREE</b>&nbsp;Beekeeping&nbsp;Tips<br />for&nbsp;Beginners-Beekeeping<br />with&nbsp;the&nbsp;Hive-<b>Click</b>&nbsp;above</span>		                    
+                <a href="http://thehivehoneyshop.co.uk/products.asp?category=1"><img src="images/english_honeys.jpg" width="149" border="0" title="Click to see our English Honeys" alt="Click to see our English Honeys"></a>
+	            <span class="photoCaption">Our English Honeys<br />Click above</span>		                    
 	            <img src="images/spacer.gif" width="149" height="5" border="0">
-                <a href="http://thehivehoneyshop.co.uk/products.asp?category=30"><img src="images/bee-swarm.jpg" width="149" border="0" title="Removal of swarms of bees & bumblebees - collected & rehoused without harm - click here to find out more" alt="Removal of swarms of bees & bumblebees - collected & rehoused without harm - click here to find out more"></a>
-	            <span class="photoCaption">Removal of swarms of bees & bumblebees - collected & rehoused without harm - <b>Click</b> above to find out more</span>		                    
+                <a href="http://thehivehoneyshop.co.uk/products.asp?category=24"><img src="images/gourmet_honeys.jpg" width="149" border="0" title="Click to see our Gourmet Honeys" alt="Click to see our Gourmet Honeys"></a>
+	            <span class="photoCaption">Our Gourmet Honeys<br />Click above</span>		                    
             </td>
 	        <td valign="top">
 	            <table border="0" cellpadding="0" cellspacing="0" width="460">
@@ -105,26 +105,29 @@
 	                </tr>-->
 	                <tr>
 	                    <td>
-	                        <p style="font-family:verdana,arial,sans-serif;color:#000000;font-size:12px;margin:10px">Some of the many hand-made honey products for sale including beeswax candles, fresh royal jelly, propolis capsules, 
-	                        tincture, honey lozenges, honey mustards, cakes, sweets, cosmetics, luxury moisturiser, mead, honey cider, 
-	                        pollen grains and much much more.</p>
+	                        <h4 style="margin:10px;text-align:center">Purveyors of the Finest Honeys in the Kingdom</h4>
+                            <p style="font-family:verdana,arial,sans-serif;color:#000000;font-size:12px;margin:10px">We are 4th generation beekeepers since 1924 gathering rare fresh raw English & London nectar honeys from our own beehives.</p> 
+                            <p style="font-family:verdana,arial,sans-serif;color:#000000;font-size:12px;margin:10px">The Hive Honey Shop established in 1992 is an entire Dickensian styled shop devoted to just bees and honey, a little honey-wonderland chock-full from floor to ceiling with the largest selection of English and international honeys in the country!</p>
+                            <p style="font-family:verdana,arial,sans-serif;color:#000000;font-size:12px;margin:10px">We produce unpasteurised honey  from our own Surrey Bee Heaven Farm, and various London and UK city locations.
+                                Products include: beeswax candles, royal jelly, propolis capsules, propolis tincture, honey lozenges, honey mustards, honey sweets, honey cosmetics, honey mead, honey cider. Click on 'Our Products' above to see the full range.</p>
+	                    </td>
+	                </tr>
+                    <tr>
+	                    <td align="center">
+	                        <h4 style="margin-left:10px;">Latest News from The Hive Honey Shop</h4>
 	                    </td>
 	                </tr>
 	                <tr>
 	                    <td>
 	                        <table>
-	                            <tr>
-	                                <td align="center">
-	                                    <h4 style="margin-left:10px;">Latest News from The Hive Honey Shop</h4>
-	                                </td>
-	                            </tr>
+	  
 	                            <tr>
 	                                <td width="50%" valign="top">
-	                                    <script src="http://feeds.feedburner.com/TheHiveHoneyshopNews?format=sigpro" type="text/javascript" ></script><noscript><p>Subscribe to RSS headline updates from: <a href="http://feeds.feedburner.com/TheHiveHoneyshopNews"></a><br/>Powered by FeedBurner</p> </noscript>
+	                                    <script src="http://feeds.feedburner.com/TheHiveHoneyshopNews?format=sigpro&nItems=3" type="text/javascript" ></script><noscript><p>Subscribe to RSS headline updates from: <a href="http://feeds.feedburner.com/TheHiveHoneyshopNews"></a><br/>Powered by FeedBurner</p> </noscript>
 	                                </td>
 	                                <td style="background-color:#6D1746;"></td>
 	                                 <td width="50%" valign="top">
-                                        <script src="http://feeds.feedburner.com/BeekeepingWithTheHiveHoneyShop?format=sigpro" type="text/javascript" ></script><noscript><p>Subscribe to RSS headline updates from: <a href="http://feeds.feedburner.com/BeekeepingWithTheHiveHoneyShop"></a><br/>Powered by FeedBurner</p> </noscript>	                                </td>
+                                        <script src="http://feeds.feedburner.com/BeekeepingWithTheHiveHoneyShop?format=sigpro&nItems=3" type="text/javascript" ></script><noscript><p>Subscribe to RSS headline updates from: <a href="http://feeds.feedburner.com/BeekeepingWithTheHiveHoneyShop"></a><br/>Powered by FeedBurner</p> </noscript>	                                </td>
 	                            </tr>
 	                        </table>
 	                    </td>
